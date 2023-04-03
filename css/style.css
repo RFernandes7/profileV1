@@ -210,7 +210,7 @@ p{
 /* INTRODUCTION */
 .hero{
     position: relative;
-    background: url(../images/projects/projectBack.jpg);
+    background: url(../images/heroBackground.jpg);
     width: 100%;
     min-height: 100vh;
     display: flex;
