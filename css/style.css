@@ -781,7 +781,7 @@ img#adpro-logo{
   /* Resume */
 
   #resume{
-    background: url(/images/resumeBack.jpg);
+    background: url(../images/resumeBack.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
